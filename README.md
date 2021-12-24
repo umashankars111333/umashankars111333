@@ -11,7 +11,7 @@
 &nbsp;&nbsp;
   <a href="mailto:umashankars111333@gmail.com?subject=Hello%20Umashankar S,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <img src="https://github.com/adityasharan01/adityasharan01/blob/master/github%20intro%20final.gif" alt="Sublime's custom image"/>
+<!--   <img src="https://github.com/adityasharan01/adityasharan01/blob/master/github%20intro%20final.gif" alt="Sublime's custom image"/> -->
   
   <img src="https://user-images.githubusercontent.com/46247882/87126810-77e5d000-c2aa-11ea-832f-70aa4fe394f9.gif" alt="alt text" width="150" height="150" />
 </p>
@@ -21,7 +21,7 @@
 
 🔭 I’m currently exploring new opportunities.
 
-🌱 I’m currently learning React.js and Node.js. 
+🌱 I’m currently learning Vue.js, React.js and Node.js. 
  
 👯 I’m looking to collaborate on frontend projects.
 
@@ -53,7 +53,7 @@
 <a href="https://dev.to/umashankar_s"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a> 
 </p>
 
-![lets connect.png](./lets connect.png)
+![connect-with-me.png](./connect-with-me.png.png)
 
 [twitter]: https://twitter.com/AdityaS54830043
 
