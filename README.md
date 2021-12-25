@@ -11,7 +11,7 @@
 &nbsp;&nbsp;
   <a href="mailto:umashankars111333@gmail.com?subject=Hello%20Umashankar S,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <img src="https://github.com/umashankars111333/umashankars111333/blob/master/github%20intro%20final.gif" alt="Sublime's custom image"/>
+  <img src="https://github.com/umashankars111333/umashankars111333/blob/main/github%20intro%20final%20uma.gif" alt="Sublime's custom image"/>
   
   <img src="https://user-images.githubusercontent.com/46247882/87126810-77e5d000-c2aa-11ea-832f-70aa4fe394f9.gif" alt="alt text" width="150" height="150" />
 </p>
